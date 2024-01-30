@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63d40ae72efc41ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,12 +160,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2d4a649334a8c099",
+  "active": "63d40ae72efc41ed",
   "lastOpenFiles": [
-    "Hh.md",
     "test/Hh.md",
+    "README.md",
+    "Hh.md",
     "test",
-    "新建文件夹",
-    "README.md"
+    "新建文件夹"
   ]
 }
